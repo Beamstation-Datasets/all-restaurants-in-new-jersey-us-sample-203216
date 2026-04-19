@@ -9,9 +9,9 @@
 | Dataset ID | `203216` |
 | Location | New Jersey |
 | Category | Restaurants |
-| Full dataset size | 20,808 records |
-| Free sample size | 1,000 records (4.81%) |
-| Last export | 2026-04-09T15:06:19.744796+00:00 |
+| Full dataset size | 20,657 records |
+| Free sample size | 1,000 records (4.84%) |
+| Last export | 2026-04-16T17:34:40.281730+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-new-jersey-us-sample-203216/releases/download/sample-latest/beamstation_203216_restaurants-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
