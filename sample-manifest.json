@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b0c2ebcd-42cc-482a-9f24-086ac1299ade",
+  "export_job_id": "1f76e0d9-1d9c-4ad3-a384-e2fcfe544cb8",
   "id_short": 203216,
-  "published_at": "2026-04-11T19:05:05Z",
+  "published_at": "2026-04-19T07:55:52Z",
   "repo_name": "all-restaurants-in-new-jersey-us-sample-203216",
   "sample_asset_name": "beamstation_203216_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/203216/beamstation_203216_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "903e05698cb7e8ecac2a17318913177bf19fd38a3225b611c963907e35fa5cad",
-  "sample_size_bytes": 3098796,
-  "total_records": 20808
+  "sample_sha256": "77e2a0fe7263050544afbbdc584b65eafdab930bf300f0f39a171fab0b413379",
+  "sample_size_bytes": 2938764,
+  "total_records": 20657
 }
